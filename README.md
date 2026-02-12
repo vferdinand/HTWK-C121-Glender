@@ -102,5 +102,3 @@ make
 Beispiel Bilder und Performance Vergleiche.
 
 ---
-
-Wenn du möchtest, kann ich dir die README auch direkt als Datei ausgeben. Sag einfach Bescheid!
