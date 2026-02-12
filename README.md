@@ -100,5 +100,3 @@ make
 
 [Abgabe Dokument](https://docs.google.com/document/d/18JriSh_IYwQzvJ9Mc-a5ljyjvrl6McUFQcZskvrGRxI/edit?usp=sharing)
 Beispiel Bilder und Performance Vergleiche.
-
----
